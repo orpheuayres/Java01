@@ -34,6 +34,7 @@ public class TesteTabela {
        Local b7 = new Local(-22.1095054,-41.4718311,"b7"); 
        Local b8 = new Local(-22.1083593,-41.4683416,"b8"); 
        Local b9 = new Local(-22.1051562,-41.459056,"b9"); 
+      
                
         TabelaGeral tb = new TabelaGeral();
         tb.getPontos().add(a1);
